@@ -5,7 +5,7 @@
 🚀 Actively learning DSA and improving problem-solving skills  
 
 ## 🛠 Skills
-- Programming: C++, Python, JavaScript
+- Programming: C++, Python, JavaScript, SQL
 - Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code
 - Learning: Data Structure & Algorithm
